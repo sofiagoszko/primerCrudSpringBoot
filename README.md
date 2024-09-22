@@ -1,7 +1,7 @@
 <h1>Primer CRUD utilizando Java y Spring Boot</h1>
 
 <h2>Inicializar proyecto</h2>
-<p>Se utilizó la página <a href="https://start.spring.io/">spring-initializr</a>, con la siguiente configuración:<p>
+<p>Se utilizó la página <a href="https://start.spring.io/" target="_blank">spring-initializr</a>, con la siguiente configuración:<p>
 
 <ul>
     <li>Project: Maven</li>
