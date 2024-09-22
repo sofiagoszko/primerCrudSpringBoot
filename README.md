@@ -1,16 +1,20 @@
-#Primer CRUD utilizando Java y Spring Boot
+<h1>Primer CRUD utilizando Java y Spring Boot</h1>
 
-##Inicializar proyecto
-Se utilizó la página https://start.spring.io/, con la siguiente configuración:
+<h2>Inicializar proyecto</h2>
+<p>Se utilizó la página <a href="https://start.spring.io/">spring-initializr</a>, con la siguiente configuración:<p>
 
-Project: Maven
-Language: Java
-Spring Boot: 3.3.4
-Packaging: Jar
-Java: 17
+<ul>
+    <li>Project: Maven</li>
+    <li>Language: Java</li>
+    <li>Spring Boot: 3.3.4</li>
+    <li>Packaging: Jar</li>
+    <li>Java: 17</li>
+</ul>
 
-Dependencies
-Spring Web Web: Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
-MySQL Driver SQL: MySQL JDBC driver.
-Lombok Developer Tools: Java annotation library which helps to reduce boilerplate code.
-Spring Data JPA SQL: Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.
+<h2>Dependencies</h2>
+<ul>
+    <li>Spring Web Web: Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.</li>
+    <li>MySQL Driver SQL: MySQL JDBC driver.</li>
+    <li>Lombok Developer Tools: Java annotation library which helps to reduce boilerplate code.</li>
+    <li>Spring Data JPA SQL: Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.</li>
+</ul>
